@@ -1,4 +1,3 @@
-# TypeScript Playground
+# Algorithm Chick
 
-TypeScript starter with eslint, tsc-watch  
-Default `tsconfig.json`, customize it according to your project
+초보 개발자와 함께하는 자료 구조와 알고리즘 성장기
