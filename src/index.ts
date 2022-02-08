@@ -1,1 +1,3 @@
-console.log('algorithm');
+import Stack from './DataStructure/Stack'
+
+Stack();
