@@ -27,10 +27,11 @@ class Stack {
 }
 
 export default () => {
-let newStack =  new Stack();
-    newStack.push(1)
-    newStack.push(2)
-    console.log(newStack.peek())
-    newStack.pop()
-    console.log(newStack.peek())
+//     console.info('stack')
+// let newStack =  new Stack();
+//     newStack.push(1)
+//     newStack.push(2)
+//     console.log(newStack.peek())
+//     newStack.pop()
+//     console.log(newStack.peek())
 }
