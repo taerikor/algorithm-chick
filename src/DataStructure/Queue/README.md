@@ -1,6 +1,7 @@
 # Queue
 
 ![queue](../../image/Data_Queue.svg)
+
 First In First Out, 선입선출의 선형 자료구조 입니다.
 
 ### 구현
