@@ -1,4 +1,4 @@
-## Binary Search Tree
+# Binary Search Tree
 
 Tree는 Root 노드에서 하위 노드로 갈래가 생기는 계층 구조로 되어 있습니다.  
 그 모양이 마치 나무를 연상케 하는 특징을 가지고 있습니다.
