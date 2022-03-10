@@ -1,6 +1,6 @@
 class ListNode {
     public element: any;
-    public next: any;
+    public next: ListNode | null;
     constructor(element){
         this.element = element;
         this.next = null;
