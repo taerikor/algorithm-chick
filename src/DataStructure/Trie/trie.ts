@@ -18,8 +18,8 @@ class Trie {
     constructor(){
         this.root = new TrieNode;
     }
-    
-    add(input:string, node = this.root){
+
+    add(input:string, node = this.root):void{
         if(input.length === 0){
             node.setEnd()
             return;
@@ -31,7 +31,7 @@ class Trie {
         }
     }
 
-    isWord(word:string){
+    isWord(word:string):boolean{
         let node = this.root;
         while(word.length > 1){
             if(!node.keys.has(word[0])){
@@ -43,8 +43,8 @@ class Trie {
         }
         return (node.keys.get(word).isEnd() && node.keys.has(word)) ? true : false
     }
-    print(){
-        let words = [];
+    print():string[]{
+        let words:string[] = [];
         let search = (node:TrieNode, string:string) => {
             if(node.keys.size !== 0 ){
                 for(let letter of node.keys.keys()){
