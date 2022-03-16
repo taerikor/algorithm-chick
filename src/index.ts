@@ -5,11 +5,13 @@ import Hash from './DataStructure/HashTable/hashTable'
 import linkedList from './DataStructure/LinkedList/linkedList';
 import Trie from './DataStructure/Trie/trie';
 import heap from './DataStructure/Heap/heap';
+import bfs from './DataStructure/Graph/bfs';
 
 // Hash();
 // linkedList();
 // Trie()
-heap()
+// heap()
+bfs()
 // BST();
 // Stack();
 // Queue();
