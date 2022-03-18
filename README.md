@@ -10,6 +10,8 @@
 |[Hash Table](https://github.com/taerikor/algorithm-chick/tree/master/src/DataStructure/HashTable)|[code](https://github.com/taerikor/algorithm-chick/blob/master/src/DataStructure/HashTable/hashTable.ts)|
 |[Linked List](https://github.com/taerikor/algorithm-chick/tree/master/src/DataStructure/LinkedList)|[code](https://github.com/taerikor/algorithm-chick/blob/master/src/DataStructure/LinkedList/linkedList.ts)|
 |[Trie](https://github.com/taerikor/algorithm-chick/tree/master/src/DataStructure/Trie)|[code](https://github.com/taerikor/algorithm-chick/blob/master/src/DataStructure/Trie/trie.ts)|
+|[Heap](https://github.com/taerikor/algorithm-chick/tree/master/src/DataStructure/Heap)|[code](https://github.com/taerikor/algorithm-chick/blob/master/src/DataStructure/Heap/heap.ts)|
+|[Graph](https://github.com/taerikor/algorithm-chick/tree/master/src/DataStructure/Graph)|[BFS](https://github.com/taerikor/algorithm-chick/blob/master/src/DataStructure/Graph/bfs.ts)|
 
 시각적인 이해가 필요하다면 다음 사이트를 참고 하세요.
 https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
