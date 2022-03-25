@@ -8,6 +8,7 @@ import heap from './DataStructure/Heap/heap';
 import bfs from './DataStructure/Graph/bfs';
 import smallestOfThreeNumbers from './CodingTest/Basics/smallest-of-three-numbers';
 import triangularDiscrimination from './CodingTest/Basics/triangular-discrimination';
+import pencils from './CodingTest/Basics/pencils';
 
 // Hash();
 // linkedList();
@@ -15,6 +16,7 @@ import triangularDiscrimination from './CodingTest/Basics/triangular-discriminat
 // heap()
 // smallestOfThreeNumbers()
 triangularDiscrimination()
+pencils();
 // bfs()
 // BST();
 // Stack();
