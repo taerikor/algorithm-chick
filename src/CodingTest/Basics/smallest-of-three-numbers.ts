@@ -2,8 +2,8 @@
 export default () => {
     function solution(a, b, c){
         let answer;
-        let compareAtoB = a > b ? b : a;
-        let compareAll = compareAtoB > c ? c : compareAtoB
+        let compareAB = a > b ? b : a;
+        let compareAll = compareAB > c ? c : compareAB
         answer = compareAll
         return answer;
     }

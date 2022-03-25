@@ -7,13 +7,15 @@ import Trie from './DataStructure/Trie/trie';
 import heap from './DataStructure/Heap/heap';
 import bfs from './DataStructure/Graph/bfs';
 import smallestOfThreeNumbers from './CodingTest/Basics/smallest-of-three-numbers';
+import triangularDiscrimination from './CodingTest/Basics/triangular-discrimination';
 
 // Hash();
 // linkedList();
 // Trie()
 // heap()
-smallestOfThreeNumbers()
-bfs()
+// smallestOfThreeNumbers()
+triangularDiscrimination()
+// bfs()
 // BST();
 // Stack();
 // Queue();
