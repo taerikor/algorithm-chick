@@ -6,11 +6,13 @@ import linkedList from './DataStructure/LinkedList/linkedList';
 import Trie from './DataStructure/Trie/trie';
 import heap from './DataStructure/Heap/heap';
 import bfs from './DataStructure/Graph/bfs';
+import smallestOfThreeNumbers from './CodingTest/Basics/smallest-of-three-numbers';
 
 // Hash();
 // linkedList();
 // Trie()
 // heap()
+smallestOfThreeNumbers()
 bfs()
 // BST();
 // Stack();

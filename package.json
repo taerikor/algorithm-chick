@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "tsc-watch --onSuccess \" node dist/index.js\" "
+    "start": "tsc-watch --onSuccess \" node dist/index.js\" ",
+    "bundle": "rollup -c"
   },
   "author": "taerikor",
   "license": "ISC",
@@ -16,6 +17,8 @@
     "@typescript-eslint/eslint-plugin": "^4.29.0",
     "@typescript-eslint/parser": "^4.29.0",
     "eslint": "^7.32.0",
+    "rollup": "^2.70.1",
+    "rollup-plugin-typescript2": "^0.31.2",
     "ts-node": "^9.1.1",
     "typescript": "^4.2.3"
   }
