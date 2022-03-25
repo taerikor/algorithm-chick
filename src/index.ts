@@ -9,15 +9,23 @@ import bfs from './DataStructure/Graph/bfs';
 import smallestOfThreeNumbers from './CodingTest/Basics/smallest-of-three-numbers';
 import triangularDiscrimination from './CodingTest/Basics/triangular-discrimination';
 import pencils from './CodingTest/Basics/pencils';
+import sumTillN from './CodingTest/Basics/sumTillN';
+import smallestOfSevenNumbers from './CodingTest/Basics/smallest-of-seven-numbers';
+import oddNumber from './CodingTest/Basics/odd-number';
+import tenPartSystem from './CodingTest/Basics/ten-part-system';
 
 // Hash();
 // linkedList();
 // Trie()
 // heap()
 // smallestOfThreeNumbers()
-triangularDiscrimination()
-pencils();
+// triangularDiscrimination()
+// pencils();
+// sumTillN()
+// smallestOfSevenNumbers()
 // bfs()
 // BST();
 // Stack();
 // Queue();
+// oddNumber();
+tenPartSystem()
