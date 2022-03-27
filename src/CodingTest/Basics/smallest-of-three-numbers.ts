@@ -2,9 +2,9 @@
 export default () => {
     function solution(a, b, c){
         let answer;
-        let compareAB = a > b ? b : a;
-        let compareAll = compareAB > c ? c : compareAB
-        answer = compareAll
+        let smallerAB = a > b ? b : a;
+        let smallestAll = smallerAB > c ? c : smallerAB
+        answer = smallestAll
         return answer;
     }
 

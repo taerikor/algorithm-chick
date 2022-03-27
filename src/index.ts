@@ -13,6 +13,11 @@ import sumTillN from './CodingTest/Basics/sumTillN';
 import smallestOfSevenNumbers from './CodingTest/Basics/smallest-of-seven-numbers';
 import oddNumber from './CodingTest/Basics/odd-number';
 import tenPartSystem from './CodingTest/Basics/ten-part-system';
+import sevenDwarfs from './CodingTest/Basics/seven-dwarfs';
+import changeAToHash from './CodingTest/Basics/change-A-to-Hash';
+import findString from './CodingTest/Basics/find-string';
+import findUpperCase from './CodingTest/Basics/find-upper-case';
+import capitalization from './CodingTest/Basics/capitalization';
 
 // Hash();
 // linkedList();
@@ -28,4 +33,9 @@ import tenPartSystem from './CodingTest/Basics/ten-part-system';
 // Stack();
 // Queue();
 // oddNumber();
-tenPartSystem()
+// tenPartSystem()
+// sevenDwarfs()
+// changeAToHash()
+// findString();
+// findUpperCase()
+capitalization()
