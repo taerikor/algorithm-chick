@@ -1,3 +1,5 @@
+// 100 이하의 자연수 9개 중 합이 100이 되는 자연수 7개를 출력
+
 export default () => {
     function solution(arr:number[]){
         let answer:number[]=[]

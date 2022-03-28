@@ -18,6 +18,10 @@ import changeAToHash from './CodingTest/Basics/change-A-to-Hash';
 import findString from './CodingTest/Basics/find-string';
 import findUpperCase from './CodingTest/Basics/find-upper-case';
 import capitalization from './CodingTest/Basics/capitalization';
+import longestString from './CodingTest/Basics/longest-string';
+import middleCharacter from './CodingTest/Basics/middle-character';
+import removeDuplicateChar from './CodingTest/Basics/remove-duplicate-char';
+import removeDuplicateWord from './CodingTest/Basics/remove-duplicate-word';
 
 // Hash();
 // linkedList();
@@ -39,3 +43,7 @@ import capitalization from './CodingTest/Basics/capitalization';
 // findString();
 // findUpperCase()
 capitalization()
+longestString()
+middleCharacter()
+removeDuplicateChar();
+removeDuplicateWord()

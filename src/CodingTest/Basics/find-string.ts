@@ -1,4 +1,4 @@
-// 문자열 중 A를 #으로 변환
+// 문자열 중 특정 문자 갯수
 
 export default () => {
     function solution(s,k){
