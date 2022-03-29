@@ -1,4 +1,4 @@
-// 팬린드럼인가? (알파뱃만)
+// 회문문자열인가? (알파뱃만)
 export default () => {
     function solution(s:string){
         let answer="YES";

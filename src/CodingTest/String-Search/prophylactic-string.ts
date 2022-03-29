@@ -1,3 +1,4 @@
+// 회문문자열인가?
 export default () => {
     function solution(s:string){
         let answer="YES";
