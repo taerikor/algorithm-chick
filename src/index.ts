@@ -1,6 +1,3 @@
+import CombineTwoArrays from './CodingTest/ Efficiency/Combine-two-arrays';
 
-import graduationPresent from './CodingTest/Brute-Force/graduation-present';
-import kthLargestNumber from './CodingTest/Brute-Force/kth-largest-number';
-
-graduationPresent()
-kthLargestNumber();
+CombineTwoArrays();
