@@ -1,7 +1,5 @@
-import intersection from './CodingTest/ Efficiency/intersection';
-import subsequence from './CodingTest/ Efficiency/subsequence';
-import subsequence2 from './CodingTest/ Efficiency/subsequence2';
+import biggestSales from './CodingTest/ Efficiency/biggest-sales';
+import classPresidentElection from './CodingTest/ Efficiency/class-president-election';
 
-intersection();
-subsequence();
-subsequence2();
+classPresidentElection();
+biggestSales();
